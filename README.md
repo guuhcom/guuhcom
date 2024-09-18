@@ -1,6 +1,6 @@
 <img align="right" src="Developer_activity-amico.svg" width="250"/>
 
-###😄 Olá!
+😄 Olá!
 Meu nome é Gustavo Guimarães, sou formado em Sistemas pela Newton Paiva e um apaixonado por tecnologia. Atualmente, faço parte da equipe de desenvolvimento da Pluro, onde contribuo para a criação de soluções inovadoras e a automação de processos.
 <br/>
 💡 Ao longo dos meus estudos e experiências profissionais, tive a oportunidade de aprender e desenvolver projetos usando diversas linguagens como Java, JavaScript, C#, além de trabalhar com HTML e CSS para construir interfaces amigáveis. Mas devo admitir que tenho um carinho especial por C# e SQL – é amor à primeira vista! 😍✨
