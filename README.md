@@ -1,8 +1,5 @@
 <img align="right" src="Developer_activity-amico.svg" width="250"/>
 
-### 😄Olá,
-Meu nome é **Gustavo Guimarães**  e sou estudante de Sistemas na Newton Paiva.<br/>Atualmente sou um dos integrantes da equipe de desenvolvimento na  Ação Contact Center. Desenvolvendo soluções e ajudando na automatização de processos.<br/>Nesses anos de estudo e trabalho tive a oportunidade de ~~aprender~~ ( "ainda apendendo") e desenvolver soluções utilizando diversas linguagens, tais com Java, javaScript, C# e utilizando Htm, Css para desenvolver o fronte. Mas particularmente tenho uma amor pela linguagem C#  e SQL 😍✨✨
-
 ###😄 Olá!
 Meu nome é Gustavo Guimarães, sou formado em Sistemas pela Newton Paiva e um apaixonado por tecnologia. Atualmente, faço parte da equipe de desenvolvimento da Pluro, onde contribuo para a criação de soluções inovadoras e a automação de processos.
 <br/>
